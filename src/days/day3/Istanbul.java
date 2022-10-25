@@ -1,4 +1,4 @@
-package days.day2;
+package days.day3;
 
 public class Istanbul {
     public static void main(String[] args) {
