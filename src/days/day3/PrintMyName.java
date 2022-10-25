@@ -1,4 +1,4 @@
-package days.day2;
+package days.day3;
 
 public class PrintMyName {     // class block starts with {  and ends with }
 

@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea
+/JAVA_EURO_BATCH6.iml
