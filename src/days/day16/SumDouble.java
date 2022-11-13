@@ -18,6 +18,8 @@ public class SumDouble {
         }
         System.out.println("sum = " + sum);
 
+        sum = (a == b) ? 2 * (a + b) : a + b;
+        System.out.println("sum = " + sum);
 
     }
 }
