@@ -2,7 +2,7 @@ package days.day19;
 
 public class LoopEx {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         //Write a method that prints the multiplication table of the user provided number. (Use while loop!)
 
@@ -51,15 +51,18 @@ public class LoopEx {
         System.out.println("Navigate to Sent Folder");
 
         boolean isEmailAppear= false; // my flag!!
-        boolean emailCheck= false; // checking email on the table with some automation methods
+        boolean emailCheck= true; // checking email on the table with some automation methods
         while(!isEmailAppear){ // create a loop for cick refresh button and to check email!!
 
             System.out.println("Click Refresh Button");
 
-            if(emailCheck){
+            if(emailCheck){//this boolean represent a method
                 isEmailAppear=true;
             }
         }
+
+        System.out.println("BEFORE WAIT");
+    //    Thread.sleep(10000);
 
         System.out.println("Verify that sent email appear!");
 
