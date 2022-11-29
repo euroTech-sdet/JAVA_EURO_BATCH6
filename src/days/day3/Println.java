@@ -1,5 +1,7 @@
 package days.day3;
 
+import days.day25.MainMethod;
+
 public class Println {
     public static void main(String[] args) {
         System.out.println("Norway");// first statement
@@ -10,6 +12,7 @@ public class Println {
         System.out.print("Roma ");// will be in the same line with Madrid
         System.out.println("Madrid");// next line
         System.out.println("Barcelona");
+
 
 
     }
