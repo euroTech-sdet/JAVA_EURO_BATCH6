@@ -6,11 +6,11 @@ public class Recursion {
         print(5);
     }
 
-    public static void print(int n) {
+    public static void print(int n) {//5 4 3 2 1
         if(n>0){
-            print(n-1);
+            print(n-1);// 4 3 2 1 0
         }
-        System.out.println("n = " + n);
+        System.out.println("n = " + n);//0 1
     }
 
     // fibonacci numbers
