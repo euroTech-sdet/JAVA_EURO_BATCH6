@@ -26,6 +26,7 @@ public class NextDouble {
 
         System.out.println("What is item price? ");
         double itemPrice = scanner.nextDouble();
+        System.out.println("itemPrice = " + itemPrice);
 
         System.out.println("Please enter item quantity: ");
         int quantity = scanner.nextInt();

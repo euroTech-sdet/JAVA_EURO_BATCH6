@@ -18,7 +18,7 @@ public class ScannerStrings {
 //        System.out.println("message = " + message);
 
 
-//        System.out.println("Please enter your name, surname and id: ");
+//        System.out.println("Please enter your name, surname and id with space separation: ");
 //        String name= scanner.next();
 //        String surname = scanner.next();
 //        String id = scanner.next();
@@ -27,14 +27,14 @@ public class ScannerStrings {
 //        System.out.println("surname = " + surname);
 //        System.out.println("idNumber = " + id);
 
-        System.out.println("Enter key:");
-        String key= scanner.next();
-        System.out.println("Enter token: ");
-        String token = scanner.nextLine();
-
-        System.out.println("key = " + key);
-
-        System.out.println("nextLine = " + token);
+//        System.out.println("Enter key:");
+//        String key= scanner.next();
+//        System.out.println("Enter token: ");
+//        String token = scanner.nextLine();
+//
+//        System.out.println("key = " + key);
+//
+//        System.out.println("nextLine = " + token);
 
 
 

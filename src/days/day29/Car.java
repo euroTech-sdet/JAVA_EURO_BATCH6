@@ -7,6 +7,7 @@ public class Car {
     int year;
     int doorNumber;
     int speed;
+    static public int carCount;
 
     public void moving() {
         System.out.println("car is moving");

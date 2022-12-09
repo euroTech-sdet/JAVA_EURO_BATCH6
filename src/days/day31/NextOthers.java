@@ -7,8 +7,10 @@ public class NextOthers {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println(4444333322221111L);
         System.out.println("Enter temp : ");
+        float test = 3.5f;
+
         float temp = scanner.nextFloat();
 
                 if(temp<4){
