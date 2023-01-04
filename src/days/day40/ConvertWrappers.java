@@ -12,6 +12,8 @@ public class ConvertWrappers {
         int intPrim = intObj.intValue();
 
         Double doubleObj = Double.valueOf(1.5);
+
+        double test2 = Double.valueOf(1.5);
         int dToint= doubleObj.intValue();  // (int)doubleObj.doubleValue();
 
         System.out.println("dToint = " + dToint);
