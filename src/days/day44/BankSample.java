@@ -29,6 +29,9 @@ public class BankSample {
 
     }
 
+    public static void AAregistration(){
+
+    }
 }
 
 

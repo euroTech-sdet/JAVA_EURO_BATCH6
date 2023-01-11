@@ -10,22 +10,32 @@ public class Schools {
     boolean isSchoolActive;
 
     public Schools(String sn, String headTeacher, int studentNumber, int teacherNumber) {
+        this();
+        //        schoolId++;
+//        BankSample.AAregistration();
         schoolName = sn;
         this.headTeacher = headTeacher;
         this.studentNumber = studentNumber;
         this.teacherNumber = teacherNumber;
         this.isSchoolActive = true;
-        schoolId++;
     }
 
     public Schools() {
         schoolId++;
+        BankSample.AAregistration();
     }
 
     public Schools(String schoolName) {
-        schoolId++;
+        this();
+//        schoolId++;
+//        BankSample.AAregistration();
         this.schoolName = schoolName;
+
     }
+//    public Schools(String headTeacher) {
+//        schoolId++;
+//        this.headTeacher = headTeacher;
+//    }
 }
 
 class LocalSchool{
