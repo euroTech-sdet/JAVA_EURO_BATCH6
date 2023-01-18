@@ -1,5 +1,7 @@
 package days.day47;
 
+import days.day48.Names;
+
 public class NameTest {
     public static void main(String[] args) {
         Names name = new Names();
