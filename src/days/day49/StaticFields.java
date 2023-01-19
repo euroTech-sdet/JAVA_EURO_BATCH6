@@ -39,7 +39,7 @@ public class StaticFields {
 
 
     }
-//RECORD!!!
+
     public StaticFields(int instanceInt) {  // no arg constructor
 //        static int test;  ERROR!!
         orderNumber = 11;

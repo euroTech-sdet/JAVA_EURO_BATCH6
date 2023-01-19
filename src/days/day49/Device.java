@@ -45,6 +45,7 @@ public class Device {
         Device d1= new Device("Laptop",10001, 500);
         d1.setStatus("Good");
         d1.name= "Test";
+        d1.test();
 
         System.out.println("d1.status = " + d1.getStatus());
         System.out.println("Device.deviceCounter = " + Device.deviceCounter);
