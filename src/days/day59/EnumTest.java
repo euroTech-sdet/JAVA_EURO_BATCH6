@@ -1,4 +1,4 @@
-package days.day59.number;
+package days.day59;
 
 public class EnumTest {
     //    Use enums when you have values that you know aren't going to change,

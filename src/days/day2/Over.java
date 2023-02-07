@@ -1,6 +1,6 @@
 package days.day2;
 
-import days.day59.number.GenaralAttributes;
+import days.day59.GenaralAttributes;
 
 public class Over {
 

@@ -1,4 +1,4 @@
-package days.day59.number;
+package days.day59;
 
 public interface ModifyTheCar {
 

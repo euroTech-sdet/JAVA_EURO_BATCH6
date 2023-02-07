@@ -1,6 +1,4 @@
-package days.day59.number;
-
-import days.day59.number.BigNumber;
+package days.day59;
 
 public class Test {
     public static void main(String[] args) {

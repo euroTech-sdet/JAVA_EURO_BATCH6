@@ -1,4 +1,4 @@
-package days.day59.number;
+package days.day59;
 
 public enum Clubs {
     MANCHESTER,LEICESTER,ARSENAL,NEWCASTLE,LIVERPOOL,CHELSEA,TOTTENHAM;

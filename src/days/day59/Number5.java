@@ -1,6 +1,4 @@
-package days.day59.number;
-
-import days.day59.number.Number;
+package days.day59;
 
 public class Number5 extends Number {
 

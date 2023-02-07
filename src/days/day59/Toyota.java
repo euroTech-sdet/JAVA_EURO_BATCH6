@@ -1,6 +1,4 @@
-package days.day59.number;
-
-import days.day53.Vehicle;
+package days.day59;
 
 public class Toyota extends Car implements CleaningTheCar {
 
