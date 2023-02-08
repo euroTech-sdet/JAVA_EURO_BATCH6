@@ -1,5 +1,7 @@
 package days.day60.BankProjectUpdate;
 
+import days.day60.BankProjectUpdate.Bank;
+
 public class Karabank extends Bank {
 
     public Karabank(String accountType, double currentBalance ) {

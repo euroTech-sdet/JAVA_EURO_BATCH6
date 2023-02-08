@@ -1,5 +1,8 @@
 package days.day60.BankProjectUpdate;
 
+import days.day60.BankProjectUpdate.Akbank;
+import days.day60.BankProjectUpdate.Karabank;
+
 public class TestBank {
 
     public static void main(String[] args) {
