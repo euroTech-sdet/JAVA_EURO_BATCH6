@@ -123,6 +123,7 @@ public class CollectionSample {
         bags.add("pencil");
         bags.add("paper");
 
+        System.out.println("bags.get(2) = " + bags.get(2));
         // Creating another array list
         ArrayList<String> boxes = new ArrayList<String>();
 
