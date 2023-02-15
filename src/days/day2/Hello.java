@@ -10,7 +10,6 @@ public class Hello {
         System.out.println("Omer Faruk");
 
 
-
     }
 
 
